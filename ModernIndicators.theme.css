@@ -1,0 +1,20 @@
+/**
+
+ * @name Modern Indicators
+ * @version 1.0
+ * @description A modern style to discord's boring indicators.
+ * @source https://github.com/slow/modern-indicators
+ * @authorId 426147523305144322
+ * @author eternal
+
+**/
+
+@import url(https://raw.githack.com/eternal/modern-indicators/main/src/source.css);
+:root {
+   --unread-badge: rgba(255, 255, 255, 0.6) !important;
+   --unread-background: rgba(255, 255, 255, 0.008) !important;
+   --selected-badge: rgb(112, 135, 215) !important;
+   --selected-background: rgba(112, 135, 215, 0.1) !important;
+   --hovered: rgba(79, 84, 92, 0.16) !important;
+   --active: rgba(79, 84, 92, 0.24) !important;
+}
