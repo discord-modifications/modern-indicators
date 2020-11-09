@@ -1,3 +1,12 @@
+:root {
+   --unread-badge: rgba(255, 255, 255, 0.6);
+   --unread-background: rgba(255, 255, 255, 0.008);
+   --selected-badge: rgb(112, 135, 215);
+   --selected-background: rgba(112, 135, 215, 0.1);
+   --hovered: rgba(79, 84, 92, 0.16);
+   --active: rgba(79, 84, 92, 0.24);
+}
+
 .modeSelected-1zApJ_:hover .content-3at_AU, .privateChannels-1nO12o .clickable-1JJAn8.container-2Pjhx-:hover, .privateChannels-1nO12o .clickable-1JJAn8.container-2Pjhx-:hover .muted-3mU76i .container-PNkimc .scroller-2FKFPG .scrollerWrap-2lJEkd .clickable-1JJAn8:hover .layout-2DM8Md, .peopleListItem-2nzedh.active-rhSpJJ, .peopleListItem-2nzedh:hover, .wrapper-1ucjTd:hover .content-3at_AU {
    border-radius: 0;
 }
