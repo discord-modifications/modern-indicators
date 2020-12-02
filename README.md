@@ -13,4 +13,4 @@ All colors can be customized in the theme file, you can use `HSLA|HEX|RGBA` and 
 <img src="https://i.imgur.com/mh452Fp.png"/>
 
 # Support 
-- eternal#1000
+- eternal#0404
