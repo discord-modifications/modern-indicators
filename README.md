@@ -1,8 +1,8 @@
-# Modern Indicators [![CodeFactor](https://www.codefactor.io/repository/github/slow/modern-indicators/badge)](https://www.codefactor.io/repository/github/slow/modern-indicators) [![GitHub issues](https://img.shields.io/github/issues/slow/modern-indicators?style=flat)](https://github.com/slow/modern-indicators/issues) [![GitHub stars](https://img.shields.io/github/stars/slow/modern-indicators?style=flat)](https://github.com/slow/modern-indicators/stargazers)
+# Modern Indicators [![CodeFactor](https://www.codefactor.io/repository/github/slow/modern-indicators/badge)](https://www.codefactor.io/repository/github/slow/modern-indicators) [![GitHub issues](https://img.shields.io/github/issues/slow/modern-indicators?style=flat)](https://github.com/slow/modern-indicators/issues) [![GitHub stars](https://img.shields.io/github/stars/slow/modern-indicators?style=flat)](https://github.com/slow/modern-indicators/stargazers) [![Support](https://img.shields.io/discord/875126204758360094)](https://discord.gg/shnvz5ryAt)
 A modern style to discord's boring indicators.
 
 # Downloads
-- [BetterDiscord](https://betterdiscord.net/ghdl?id=3422)
+- [BetterDiscord](https://slow.github.io/downloader/?theme=modern-indicators)
 - Powercord: `git clone https://github.com/slow/modern-indicators/`
 
 # Note
