@@ -1,8 +1,9 @@
 {
    "name": "Modern Indicators",
    "description": "A modern style to discord's boring indicators.",
-   "version": "2.0",
+   "version": "1.0.0",
    "author": "eternal",
    "theme": "index.scss",
+   "discord": "shnvz5ryAt",
    "license": "Unlicensed"
 }
