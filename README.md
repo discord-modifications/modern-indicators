@@ -2,7 +2,7 @@
 A modern style to discord's boring indicators.
 
 # Downloads
-- [BetterDiscord](https://eternal404.github.io/downloader/?theme=modern-indicators)
+- [BetterDiscord](https://discord-modifications.github.io/downloader/?theme=modern-indicators)
 - Powercord: `git clone https://github.com/eternal404/modern-indicators/`
 
 # Note
